@@ -1,3 +1,5 @@
+#include <stddef.h>
+#include <stdlib.h>
 #include "binary_trees.h"
 
 size_t max(size_t num1, size_t num2);
